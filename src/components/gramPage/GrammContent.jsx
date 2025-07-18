@@ -23,8 +23,8 @@ export default function GrammarContent(){
                 </button>
                 <button 
                     onClick={() => setSelectedLevel("B1")} 
-                    className={`cursor-pointer bg-gray-200 text-lg px-3 py-1.5 rounded-t-lg hover:bg-gray-300
-                        ${selectedLevel === "B1" ? "bg-gray-200" : "bg-gray-100"}
+                    className={`cursor-pointer bg-zinc-200 text-lg px-3 py-1.5 rounded-t-lg hover:bg-zinc-300
+                        ${selectedLevel === "B1" ? "bg-zinc-300" : "bg-zinc-200"}
                     `}>
                         B1
                 </button>
