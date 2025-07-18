@@ -9,7 +9,7 @@ export default function VocHero(){
             </div>
             <Link 
                 to="/quiz"
-                className="text-lg text-center px-2.5 py-1.5 mb-10 rounded-xl cursor-pointer bg-gray-100 hover:bg-gray-200 md:mb-28 md:px-4 md:py-2 md:text-xl"
+                className="text-lg text-center px-2.5 py-1.5 mb-10 rounded-xl cursor-pointer bg-zinc-200 hover:bg-zinc-300 md:mb-28 md:px-4 md:py-2 md:text-xl"
             >
                 Try a quiz
             </Link>
