@@ -24,15 +24,15 @@ export default function MainContent(){
                 </button>
                 <button 
                     onClick={() => setChosenLevel("B1")} 
-                    className={`cursor-pointer bg-gray-100 text-lg px-3 py-1.5 rounded-t-lg hover:bg-gray-200
-                        ${chosenLevel === "B1" ? "bg-gray-200" : "bg-gray-100"}
+                    className={`cursor-pointer bg-zinc-200 text-lg px-3 py-1.5 rounded-t-lg hover:bg-zinc-300
+                        ${chosenLevel === "B1" ? "bg-zinc-300" : "bg-zinc-200"}
                     `}>
                         B1
                 </button>
                 <button 
                     onClick={() => setChosenLevel("B2")} 
-                    className={`cursor-pointer bg-gray-100 text-lg px-3 py-1.5 rounded-t-lg hover:bg-gray-200
-                        ${chosenLevel === "B2" ? "bg-gray-200" : "bg-gray-100"}
+                    className={`cursor-pointer bg-zinc-200 text-lg px-3 py-1.5 rounded-t-lg hover:bg-zinc-300
+                        ${chosenLevel === "B2" ? "bg-zinc-300" : "bg-zinc-200"}
                     `}>
                     B2
                 </button>
