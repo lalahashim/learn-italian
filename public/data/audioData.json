@@ -1,0 +1,60 @@
+{
+  "A1": [
+    {
+      "title": "Imparare l’italiano – livello base",
+      "channel": "Impara l’italiano con Lucrezia",
+      "url": "https://youtube.com/playlist?list=PLw_3OGi3pBv75QHAPml0q-qvSYX60PgsX",
+      "description": "Short, simple videos for beginners. Everyday phrases, slow speech, and clear pronunciation."
+    },
+    {
+      "title": "Dialoghi in italiano",
+      "channel": "Teacher Stefano",
+      "url": "https://youtube.com/playlist?list=PLvGU98jQqwRfKdSWZ9nYpTCFozEjjLanF",
+      "description": "Italian dialogues on everyday topics with subtitles. Perfect for beginners."
+    }
+  ],
+  "A2": [
+    {
+      "title": "Lezioni di italiano per principianti",
+      "channel": "Teacher Stefano",
+      "url": "https://youtube.com/playlist?list=PLvGU98jQqwRc0XjcRn2MV5daHoAOf-fqE",
+      "description": "Beginner-friendly Italian lessons using simple vocabulary and grammar."
+    }
+  ],
+  "B1": [
+    {
+      "title": "Podcast Italiano – Intermediate level",
+      "channel": "Podcast Italiano",
+      "url": "https://youtube.com/playlist?list=PLw_3OGi3pBv438oUB6XrF0lh6hJ8y6db8",
+      "description": "Video podcasts covering everyday topics at a moderate speed, suitable for intermediate learners."
+    },
+    {
+      "title": "Video lessons with Teacher Stefano",
+      "channel": "Teacher Stefano",
+      "url": "https://youtube.com/playlist?list=PLvGU98jQqwRcsCEY5gLZoYI-EYHRnzyKW",
+      "description": "Listening practice and grammar exercises for improving comprehension at the B1 level."
+    }
+  ],
+  "B2": [
+    {
+      "title": "Una giornata con me (all in Italian)",
+      "channel": "Impara l’italiano con Lucrezia",
+      "url": "https://youtu.be/GFlG9liLM-4?si=SSnYJGYtDEVvbDw6",
+      "description": "A vlog-style video with natural speech and no subtitles. Great for practicing real Italian at B2 level."
+    },
+    {
+      "title": "Podcast Italiano – Advanced level",
+      "channel": "Podcast Italiano",
+      "url": "https://youtube.com/playlist?list=PLw_3OGi3pBv5Xfuh_9aA15OBEkHJ8N5F-",
+      "description": "Faster speech and more advanced topics. Designed for upper-intermediate to advanced learners."
+    }
+  ],
+  "C1": [
+    {
+      "title": "Advanced listening practice",
+      "channel": "Teacher Stefano",
+      "url": "https://youtube.com/playlist?list=PLvGU98jQqwRdVkLAvgARDBDtPmgsAbxT1",
+      "description": "Authentic materials with natural speech. Ideal for training listening comprehension at a high level."
+    }
+  ]
+}

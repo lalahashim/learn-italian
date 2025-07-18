@@ -1,0 +1,1570 @@
+{
+  "A1": {
+    "level": "A1",
+    "topics": {
+      "Articoli determinativi e indeterminativi": {
+        "english": "Definite and Indefinite Articles",
+        "description": "In Italian, articles must match the gender and number of the noun. There are two types: definite (the) and indefinite (a/an).",
+        "details": [
+          "✅ Definite articles are used when talking about something specific.",
+          "- il (masculine singular): il libro (the book)",
+          "- lo (masculine singular before z, s+consonant): lo studente",
+          "- la (feminine singular): la casa",
+          "- l’ (before vowels): l’amico, l’amica",
+          "- i (masculine plural): i libri",
+          "- gli (masculine plural before z, s+consonant or vowels): gli studenti, gli amici",
+          "- le (feminine plural): le case",
+          "",
+          "✅ Indefinite articles are used when talking about something non-specific.",
+          "- un (masculine): un ragazzo",
+          "- uno (masculine before z, s+consonant): uno studente",
+          "- una (feminine): una ragazza",
+          "- un’ (feminine before vowels): un’amica"
+        ],
+        "examples": [
+          { "it": "Il gatto dorme.", "en": "The cat sleeps." },
+          { "it": "Una ragazza legge un libro.", "en": "A girl is reading a book." },
+          { "it": "Gli studenti parlano italiano.", "en": "The students speak Italian." }
+        ]
+      },
+      "Sostantivi: genere e numero": {
+        "english": "Nouns: Gender and Number",
+        "description": "Italian nouns have gender (masculine or feminine) and number (singular or plural). The article and adjective must agree with the noun.",
+        "details": [
+          "🔹 Gender:",
+          "- Most nouns ending in -o are masculine (il libro).",
+          "- Most nouns ending in -a are feminine (la casa).",
+          "- Nouns ending in -e can be masculine or feminine (il ristorante, la televisione).",
+          "- Some nouns have irregular gender and must be memorized (la mano, il problema).",
+          "",
+          "🔹 Number:",
+          "- Singular to plural for -o → -i: il libro → i libri",
+          "- Singular to plural for -a → -e: la casa → le case",
+          "- Singular to plural for -e → -i: il ristorante → i ristoranti, la lezione → le lezioni",
+          "- Some nouns don’t change in the plural (e.g., città, università)."
+        ],
+        "examples": [
+          { "it": "La casa è grande.", "en": "The house is big." },
+          { "it": "I libri sono interessanti.", "en": "The books are interesting." },
+          { "it": "Le lezioni sono facili.", "en": "The lessons are easy." },
+          { "it": "La mano è piccola.", "en": "The hand is small." }
+        ]
+      },
+      "Aggettivi: accordo di genere e numero": {
+        "english": "Adjectives: Agreement in Gender and Number",
+        "description": "In Italian, adjectives must agree with the noun they describe in gender (masculine or feminine) and number (singular or plural). Adjectives usually come after the noun.",
+        "details": [
+          "🔹 Masculine singular: usually ends in -o → il ragazzo alto",
+          "🔹 Feminine singular: usually ends in -a → la ragazza alta",
+          "🔹 Masculine plural: -o becomes -i → i ragazzi alti",
+          "🔹 Feminine plural: -a becomes -e → le ragazze alte",
+          "",
+          "🟢 Adjectives ending in -e (e.g. intelligente):",
+          "- Same for both genders in singular → il ragazzo intelligente, la ragazza intelligente",
+          "- Plural form is -i → i ragazzi intelligenti, le ragazze intelligenti",
+          "",
+          "🟡 Some common adjectives (e.g. bello, buono, grande, piccolo) often come before the noun."
+        ],
+        "examples": [
+          { "it": "Il gatto nero dorme.", "en": "The black cat is sleeping." },
+          { "it": "La casa grande è bella.", "en": "The big house is beautiful." },
+          { "it": "I bambini piccoli giocano.", "en": "The little children are playing." },
+          { "it": "Le ragazze intelligenti studiano molto.", "en": "The intelligent girls study a lot." }
+        ]
+      },
+      "Presente: essere, avere e verbi regolari": {
+        "english": "Present Tense: essere, avere and regular verbs",
+        "description": "In Italian, the present tense (presente) is used to describe actions happening now or habits. The verbs essere and avere are irregular and very common. Regular verbs follow predictable patterns depending on their group (-are, -ere, -ire).",
+        "details": [
+          "🔹 Essere (to be):",
+          "- io sono — I am",
+          "- tu sei — you are",
+          "- lui/lei è — he/she is",
+          "- noi siamo — we are",
+          "- voi siete — you all are",
+          "- loro sono — they are",
+          "",
+          "🔹 Avere (to have):",
+          "- io ho — I have",
+          "- tu hai — you have",
+          "- lui/lei ha — he/she has",
+          "- noi abbiamo — we have",
+          "- voi avete — you all have",
+          "- loro hanno — they have",
+          "",
+          "🔹 Regular verbs:",
+          "- -are (parlare): parlo, parli, parla, parliamo, parlate, parlano",
+          "- -ere (vedere): vedo, vedi, vede, vediamo, vedete, vedono",
+          "- -ire (dormire): dormo, dormi, dorme, dormiamo, dormite, dormono"
+        ],
+        "examples": [
+          { "it": "Io sono studentessa.", "en": "I am a student." },
+          { "it": "Loro hanno un cane.", "en": "They have a dog." },
+          { "it": "Parli italiano?", "en": "Do you speak Italian?" },
+          { "it": "Vediamo la televisione.", "en": "We watch TV." },
+          { "it": "Dormono molto.", "en": "They sleep a lot." }
+        ]
+      },
+      "Preposizioni semplici": {
+        "english": "Simple Prepositions",
+        "description": "Simple prepositions are short words used to indicate relationships of place, time, cause, purpose, and more. They are often followed by a noun or pronoun, and sometimes contract with the definite article.",
+        "details": [
+          "🔹 a – to, at, in:",
+          "- Vado a Roma. (I go to Rome)",
+          "- Abito a Milano. (I live in Milan)",
+          "",
+          "🔹 in – in, into, to:",
+          "- Vivo in Italia. (I live in Italy)",
+          "- Sono in cucina. (I am in the kitchen)",
+          "",
+          "🔹 di – of, from:",
+          "- Il libro di Maria. (Maria’s book)",
+          "- Sono di Firenze. (I’m from Florence)",
+          "",
+          "🔹 da – from, by, to (someone’s place):",
+          "- Vengo da Napoli. (I come from Naples)",
+          "- Vado dal medico. (I go to the doctor)",
+          "",
+          "🔹 su – on, about:",
+          "- Il libro è sul tavolo. (The book is on the table)",
+          "- Un film su Roma. (A film about Rome)",
+          "",
+          "🔹 con – with:",
+          "- Esco con gli amici. (I go out with friends)",
+          "",
+          "🔹 per – for, in order to:",
+          "- Questo regalo è per te. (This gift is for you)",
+          "- Studio per imparare. (I study to learn)"
+        ],
+        "examples": [
+          { "it": "Vado a scuola con mia sorella.", "en": "I go to school with my sister." },
+          { "it": "Il gatto è sul divano.", "en": "The cat is on the couch." },
+          { "it": "Il libro è di Luca.", "en": "The book belongs to Luca." },
+          { "it": "Parto per la Spagna.", "en": "I’m leaving for Spain." }
+        ]
+      },
+      "Parole interrogative": {
+        "english": "Question Words",
+        "description": "Interrogative words are used to ask questions. In Italian, they usually appear at the beginning of a sentence and are followed by a verb.",
+        "details": [
+          "🔹 Chi – who:",
+          "- Chi è lui? (Who is he?)",
+          "- Chi viene con noi? (Who is coming with us?)",
+          "",
+          "🔹 Che / Cosa – what:",
+          "- Che fai? / Cosa fai? (What are you doing?)",
+          "- Che cosa vuoi? (What do you want?)",
+          "",
+          "🔹 Dove – where:",
+          "- Dove abiti? (Where do you live?)",
+          "- Dove vai? (Where are you going?)",
+          "",
+          "🔹 Quando – when:",
+          "- Quando partite? (When are you leaving?)",
+          "- Quando è la lezione? (When is the class?)",
+          "",
+          "🔹 Perché – why / because:",
+          "- Perché studi italiano? (Why are you studying Italian?)",
+          "- Perché è interessante. (Because it’s interesting)"
+        ],
+        "examples": [
+          { "it": "Chi è quella ragazza?", "en": "Who is that girl?" },
+          { "it": "Cosa mangi?", "en": "What are you eating?" },
+          { "it": "Dove sei adesso?", "en": "Where are you now?" },
+          { "it": "Quando arriva il treno?", "en": "When does the train arrive?" },
+          { "it": "Perché ridi?", "en": "Why are you laughing?" }
+        ]
+      },
+      "Particelle c’è e ci sono": {
+        "english": "Particles c’è and ci sono",
+        "description": "In Italian, \"c’è\" means \"there is\" (singular), and \"ci sono\" means \"there are\" (plural). They are used to indicate the existence or presence of something.",
+        "details": [
+          "🔹 c’è (ci + è): used for singular nouns or uncountable things.",
+          "- C’è un libro sul tavolo. (There is a book on the table.)",
+          "- C’è molta gente in piazza. (There are many people in the square.)",
+          "",
+          "🔹 ci sono: used for plural nouns.",
+          "- Ci sono due sedie nella stanza. (There are two chairs in the room.)",
+          "- Ci sono molti studenti in classe. (There are many students in the class.)"
+        ],
+        "examples": [
+          { "it": "C’è un gatto nel giardino.", "en": "There is a cat in the garden." },
+          { "it": "Ci sono tre libri sul tavolo.", "en": "There are three books on the table." },
+          { "it": "C’è una festa stasera.", "en": "There is a party tonight." },
+          { "it": "Ci sono molti fiori nel vaso.", "en": "There are many flowers in the vase." }
+        ]
+      },
+      "Pronomi personali e dimostrativi": {
+        "english": "Personal and Demonstrative Pronouns",
+        "description": "Personal pronouns replace nouns and indicate who is doing the action. Demonstrative pronouns point out specific people or things.",
+        "details": [
+          "🔹 Personal pronouns (soggetto):",
+          "- io (I)",
+          "- tu (you, singular informal)",
+          "- lui/lei (he/she)",
+          "- noi (we)",
+          "- voi (you, plural)",
+          "- loro (they)",
+          "",
+          "🔹 Demonstrative pronouns:",
+          "- questo (this, masculine singular)",
+          "- questa (this, feminine singular)",
+          "- questi (these, masculine plural)",
+          "- queste (these, feminine plural)",
+          "- quello (that, masculine singular)",
+          "- quella (that, feminine singular)",
+          "- quelli (those, masculine plural)",
+          "- quelle (those, feminine plural)"
+        ],
+        "examples": [
+          { "it": "Io sono felice.", "en": "I am happy." },
+          { "it": "Tu sei stanco.", "en": "You are tired." },
+          { "it": "Lei è italiana.", "en": "She is Italian." },
+          { "it": "Questo libro è interessante.", "en": "This book is interesting." },
+          { "it": "Quella casa è grande.", "en": "That house is big." },
+          { "it": "Questi sono i miei amici.", "en": "These are my friends." }
+        ]
+      },
+      "Negazione: non": {
+        "english": "Negation: non",
+        "description": "In Italian, negation is usually expressed by placing \"non\" before the verb. It means \"not\" and negates the action of the verb.",
+        "details": [
+          "🔹 \"Non\" is placed directly before the verb:",
+          "- Non parlo italiano. (I do not speak Italian.)",
+          "- Non mangiamo carne. (We do not eat meat.)",
+          "",
+          "🔹 In compound tenses, \"non\" comes before the auxiliary verb:",
+          "- Non ho visto il film. (I have not seen the movie.)",
+          "",
+          "🔹 To make questions negative, \"non\" is still used:",
+          "- Non vuoi venire? (Don’t you want to come?)",
+          "",
+          "🔹 Other negative words (mai, niente, nessuno) can be used with \"non\" to express different types of negation."
+        ],
+        "examples": [
+          { "it": "Non capisco.", "en": "I don’t understand." },
+          { "it": "Non ho fame.", "en": "I’m not hungry." },
+          { "it": "Non andiamo al cinema.", "en": "We are not going to the cinema." },
+          { "it": "Non voglio uscire stasera.", "en": "I don’t want to go out tonight." }
+        ]
+      },
+      "Numerali": {
+        "english": "Numbers",
+        "description": "Italian numbers are used to count and indicate quantity. They have cardinal and ordinal forms.",
+        "details": [
+          "🔹 Cardinal numbers (numeri cardinali):",
+          "- 0 — zero",
+          "- 1 — uno",
+          "- 2 — due",
+          "- 3 — tre",
+          "- 4 — quattro",
+          "- 5 — cinque",
+          "- 6 — sei",
+          "- 7 — sette",
+          "- 8 — otto",
+          "- 9 — nove",
+          "- 10 — dieci",
+          "",
+          "🔹 Numbers from 11 to 20:",
+          "- 11 — undici",
+          "- 12 — dodici",
+          "- 13 — tredici",
+          "- 14 — quattordici",
+          "- 15 — quindici",
+          "- 16 — sedici",
+          "- 17 — diciassette",
+          "- 18 — diciotto",
+          "- 19 — diciannove",
+          "- 20 — venti",
+          "",
+          "🔹 Other: 30 (trenta), 40 (quaranta), 50 (cinquanta), 60 (sessanta), 70 (settanta), 80 (ottanta), 90 (novanta), 100 (cento)."
+        ],
+        "examples": [
+          { "it": "Ho tre cani.", "en": "I have three dogs." },
+          { "it": "Ci sono cinque mele.", "en": "There are five apples." },
+          { "it": "La lezione è alle otto.", "en": "The lesson is at eight o’clock." },
+          { "it": "Ho venti anni.", "en": "I am twenty years old." }
+        ]
+      },
+      "L’ora: come dire “È cinque”": {
+        "english": "Time: How to say 'It is five o'clock'",
+        "description": "In Italian, to tell the time you use the verb \"essere\" (to be) with the hour number. Minutes are expressed by adding \"e\" (and) plus the minutes. For quarters and halves, specific expressions are used.",
+        "details": [
+          "🔹 To say the hour exactly:",
+          "- È + [hour in singular form]:",
+          "  - È una. (It is one o'clock.)",
+          "  - Sono le due. (It is two o'clock.)",
+          "  - Sono le cinque. (It is five o'clock.)",
+          "",
+          "🔹 Minutes are added using \"e\" (and):",
+          "- Sono le tre e cinque. (It is 3:05.)",
+          "- Sono le quattro e un quarto. (It is 4:15.)",
+          "- Sono le sei e mezza. (It is 6:30.)",
+          "",
+          "🔹 To say quarter to the hour, use \"meno un quarto\":",
+          "- Sono le sette meno un quarto. (It is 6:45.)",
+          "",
+          "🔹 Special case for one o’clock (singular):",
+          "- Use \"È\" (singular), for all other hours use \"Sono\" (plural)."
+        ],
+        "examples": [
+          { "it": "È l’una.", "en": "It is one o’clock." },
+          { "it": "Sono le cinque.", "en": "It is five o’clock." },
+          { "it": "Sono le due e dieci.", "en": "It is ten past two." },
+          { "it": "Sono le sette meno un quarto.", "en": "It is quarter to seven." },
+          { "it": "Sono le quattro e mezza.", "en": "It is half past four." }
+        ]
+      },
+      "Ordine semplice delle parole": {
+        "english": "Simple Word Order",
+        "description": "The typical Italian sentence structure follows Subject-Verb-Object (SVO) order. Adjectives usually follow the noun, but some can precede it for emphasis or meaning change.",
+        "details": [
+          "🔹 Basic sentence order: Subject + Verb + Object",
+          "- Io mangio la mela. (I eat the apple.)",
+          "- Lui legge un libro. (He reads a book.)",
+          "",
+          "🔹 Adjectives usually come after the noun:",
+          "- Una casa grande. (A big house.)",
+          "- Un libro interessante. (An interesting book.)",
+          "",
+          "🔹 Questions often start with a question word or verb:",
+          "- Dove abiti? (Where do you live?)",
+          "- Che cosa fai? (What are you doing?)",
+          "",
+          "🔹 Negation is expressed with \"non\" before the verb:",
+          "- Non parlo inglese. (I don’t speak English.)"
+        ],
+        "examples": [
+          { "it": "Io studio italiano.", "en": "I study Italian." },
+          { "it": "Lei mangia una mela.", "en": "She eats an apple." },
+          { "it": "Noi andiamo al mercato.", "en": "We go to the market." },
+          { "it": "Non capisco la domanda.", "en": "I don’t understand the question." }
+        ]
+      }
+    }
+  },
+  "A2": {
+    "level": "A2",
+    "topics": {
+      "Present Tense Review + Stem-Changing Verbs": {
+        "english": "Present Tense Review + Stem-Changing Verbs",
+        "description": "Some verbs in Italian change their stem in the present tense. The most common change is the addition of -isc- in certain -ire verbs.",
+        "details": [
+          "🔹 Regular -are verb example:",
+          "- parlare → io parlo, tu parli, lui/lei parla, noi parliamo, voi parlate, loro parlano",
+          "",
+          "🔹 Stem-changing -ire verbs (with -isc-):",
+          "- capire → io capisco, tu capisci, lui/lei capisce, noi capiamo, voi capite, loro capiscono",
+          "",
+          "🟡 -isc- is added in all forms except noi and voi.",
+          "",
+          "📌 Common verbs that follow this pattern:",
+          "- capire (to understand)",
+          "- preferire (to prefer)",
+          "- finire (to finish)",
+          "- pulire (to clean)",
+          "- spedire (to send)"
+        ],
+        "examples": [
+          { "it": "Capisco l’italiano.", "en": "I understand Italian." },
+          { "it": "Finiscono il lavoro.", "en": "They finish the work." },
+          { "it": "Puliamo la casa ogni sabato.", "en": "We clean the house every Saturday." }
+        ]
+      },
+      "Passato Prossimo": {
+        "english": "Present Perfect (Passato Prossimo)",
+        "description": "The passato prossimo is used to talk about completed actions in the past. It is formed with the present tense of essere or avere and the past participle of the verb.",
+        "details": [
+          "🔹 With *avere* (used with most transitive verbs):",
+          "- Ho mangiato una pizza. → I ate a pizza.",
+          "",
+          "🔹 With *essere* (used with movement, change of state, reflexives):",
+          "- Sono andato/a a casa. → I went home.",
+          "- The past participle agrees in gender and number with the subject.",
+          "",
+          "📌 Agreement examples:",
+          "- Lui è arrivato. → He arrived.",
+          "- Lei è arrivata. → She arrived.",
+          "- Loro sono arrivati/e. → They arrived.",
+          "",
+          "📌 Common verbs with *essere*: andare, venire, partire, arrivare, nascere, morire, uscire, diventare",
+          "📌 Common verbs with *avere*: mangiare, leggere, scrivere, avere, fare, guardare"
+        ],
+        "examples": [
+          { "it": "Ho letto un libro.", "en": "I read a book." },
+          { "it": "Maria è uscita ieri.", "en": "Maria went out yesterday." },
+          { "it": "Siamo arrivati in tempo.", "en": "We arrived on time." }
+        ]
+      },
+      "Temporal Adverbs": {
+        "english": "Temporal Adverbs with Passato Prossimo",
+        "description": "These adverbs are often used with the passato prossimo to express time-related nuances. They are usually placed between the auxiliary verb and the past participle.",
+        "details": [
+          "🔹 già – already",
+          "- Ho già mangiato. → I have already eaten.",
+          "",
+          "🔹 mai – never (used in negative sentences)",
+          "- Non ho mai visto quel film. → I have never seen that movie.",
+          "",
+          "🔹 ancora – yet / still (often in negative sentences)",
+          "- Non ho ancora finito. → I haven't finished yet.",
+          "",
+          "🔹 appena – just",
+          "- Ho appena parlato con lui. → I just spoke with him."
+        ],
+        "examples": [
+          { "it": "Hai già fatto i compiti?", "en": "Have you already done the homework?" },
+          { "it": "Non abbiamo mai viaggiato in Italia.", "en": "We have never traveled to Italy." },
+          { "it": "Ho appena visto Luca.", "en": "I just saw Luca." }
+        ]
+      },
+      "Prepositions with Articles": {
+        "english": "Prepositions with Definite Articles",
+        "description": "In Italian, simple prepositions (di, a, da, in, su) combine with definite articles (il, lo, la, l’, i, gli, le) to form contracted forms called 'preposizioni articolate'. These are used to indicate place, origin, possession, and direction.",
+        "details": [
+          "🔹 di + il = del → of the",
+          "- Il libro del professore. → The teacher's book.",
+          "",
+          "🔹 a + il = al → to the / at the",
+          "- Vado al mercato. → I’m going to the market.",
+          "",
+          "🔹 da + il = dal → from the / by the",
+          "- Vengo dal medico. → I’m coming from the doctor.",
+          "",
+          "🔹 in + il = nel → in the",
+          "- Sono nel ristorante. → I’m in the restaurant.",
+          "",
+          "🔹 su + il = sul → on the",
+          "- Il gatto è sul tavolo. → The cat is on the table.",
+          "",
+          "🟡 These forms change depending on the gender and number of the noun:",
+          "- del, dello, della, dell’, dei, degli, delle",
+          "- al, allo, alla, all’, ai, agli, alle",
+          "- dal, dallo, dalla, dall’, dai, dagli, dalle",
+          "- nel, nello, nella, nell’, nei, negli, nelle",
+          "- sul, sullo, sulla, sull’, sui, sugli, sulle"
+        ],
+        "examples": [
+          { "it": "Il libro è sul tavolo.", "en": "The book is on the table." },
+          { "it": "Parlo con il figlio del dottore.", "en": "I speak with the doctor's son." },
+          { "it": "Andiamo al cinema.", "en": "We are going to the cinema." },
+          { "it": "La penna è nella borsa.", "en": "The pen is in the bag." }
+        ]
+      },
+      "Reflexive Verbs": {
+        "english": "Reflexive Verbs",
+        "description": "Reflexive verbs are used when the subject and the object of the action are the same person. In Italian, they are recognized by the reflexive pronouns (mi, ti, si, ci, vi, si) placed before the verb.",
+        "details": [
+          "🔹 Structure:",
+          "- Reflexive pronoun + verb",
+          "- Example: alzarsi (to get up) → io mi alzo",
+          "",
+          "🔹 Present tense example (alzarsi):",
+          "- io mi alzo",
+          "- tu ti alzi",
+          "- lui/lei si alza",
+          "- noi ci alziamo",
+          "- voi vi alzate",
+          "- loro si alzano",
+          "",
+          "🔹 Common reflexive verbs:",
+          "- alzarsi → to get up",
+          "- chiamarsi → to be called",
+          "- lavarsi → to wash oneself",
+          "- vestirsi → to get dressed",
+          "- svegliarsi → to wake up",
+          "- addormentarsi → to fall asleep",
+          "",
+          "🟡 In compound tenses (like passato prossimo), reflexive verbs always use *essere* as the auxiliary verb, and the past participle agrees with the subject."
+        ],
+        "examples": [
+          { "it": "Mi chiamo Anna.", "en": "My name is Anna." },
+          { "it": "Ci alziamo presto.", "en": "We get up early." },
+          { "it": "Si veste velocemente.", "en": "He/she gets dressed quickly." },
+          { "it": "Mi sono svegliata alle sette.", "en": "I woke up at seven." }
+        ]
+      },
+      "Indefinite Pronouns": {
+        "english": "Indefinite Pronouns",
+        "description": "Indefinite pronouns refer to people or things in a non-specific way. They are often used when the exact identity is not known or not important.",
+        "details": [
+          "🔹 Common indefinite pronouns:",
+          "- qualcuno → someone",
+          "- qualcosa → something",
+          "- ognuno → each one / everyone",
+          "- ogni → every / each (used as an adjective)",
+          "- nessuno → no one / nobody",
+          "- niente / nulla → nothing",
+          "- alcuni / alcune → some (plural)",
+          "- tutti / tutte → everyone / all",
+          "",
+          "🟡 Grammar notes:",
+          "- *Qualcuno*, *ognuno*, *nessuno* are singular and refer to people.",
+          "- *Qualcosa*, *niente*, *nulla* are singular and refer to things.",
+          "- *Ogni* is invariable and always followed by a singular noun.",
+          "- *Alcuni/alcune* and *tutti/tutte* are used in the plural and must agree in gender.",
+          "- *Nessuno* and *niente/nulla* are often used with non (double negation)."
+        ],
+        "examples": [
+          { "it": "Qualcuno ha chiamato.", "en": "Someone called." },
+          { "it": "Hai visto qualcosa?", "en": "Did you see something?" },
+          { "it": "Non ho visto nessuno.", "en": "I didn't see anyone." },
+          { "it": "Ogni studente ha un libro.", "en": "Each student has a book." },
+          { "it": "Tutti sono pronti.", "en": "Everyone is ready." },
+          { "it": "Non c’è nulla da fare.", "en": "There’s nothing to do." }
+        ]
+      },
+      "Adverbs of Frequency": {
+        "english": "Adverbs of Frequency",
+        "description": "Adverbs of frequency describe how often an action occurs. In Italian, they usually go after the verb, except with essere, where they are placed after the conjugated verb form.",
+        "details": [
+          "🔹 Common adverbs of frequency:",
+          "- sempre → always",
+          "- spesso → often",
+          "- qualche volta / a volte → sometimes",
+          "- raramente → rarely",
+          "- mai → never",
+          "",
+          "🔹 Word order:",
+          "- With normal verbs: [verb + adverb]",
+          "  - Mangio spesso la pizza. → I often eat pizza.",
+          "",
+          "- With *essere*: [essere + adverb]",
+          "  - Sono sempre stanca. → I am always tired.",
+          "",
+          "🟡 *Mai* is used in negative sentences with *non*:",
+          "- Non vado mai al cinema. → I never go to the cinema."
+        ],
+        "examples": [
+          { "it": "Vado sempre a scuola in autobus.", "en": "I always go to school by bus." },
+          { "it": "Giochiamo spesso a calcio.", "en": "We often play football." },
+          { "it": "Non mangio mai carne.", "en": "I never eat meat." },
+          { "it": "Qualche volta esco con gli amici.", "en": "Sometimes I go out with friends." },
+          { "it": "Lui è raramente puntuale.", "en": "He is rarely on time." }
+        ]
+      },
+      "Comparisons": {
+        "english": "Comparisons",
+        "description": "Italian uses specific structures to compare qualities, quantities, or equality between people, things, or actions.",
+        "details": [
+          "🔹 To express 'more... than':",
+          "- più + adjective/adverb/noun + di",
+          "- Example: Marco è più alto di Luca. → Marco is taller than Luca.",
+          "",
+          "🔹 To express 'less... than':",
+          "- meno + adjective/adverb/noun + di",
+          "- Example: Lei è meno veloce di me. → She is less fast than me.",
+          "",
+          "🔹 To express 'as... as' (equality):",
+          "- così / tanto + adjective/adverb + come",
+          "- Example: Questo libro è così interessante come quello. → This book is as interesting as that one.",
+          "- Alternatively: Mario corre tanto veloce come Anna. → Mario runs as fast as Anna.",
+          "",
+          "🟡 When comparing quantities, use di:",
+          "- Ho più libri di te. → I have more books than you.",
+          "",
+          "🟡 When comparing actions (verbs), use quanto:",
+          "- Lei studia più di me. → She studies more than me.",
+          "- Lei studia tanto quanto me. → She studies as much as me."
+        ],
+        "examples": [
+          { "it": "Questo film è più bello di quello.", "en": "This movie is better than that one." },
+          { "it": "Sono meno stanco di ieri.", "en": "I am less tired than yesterday." },
+          { "it": "Maria è così intelligente come Luca.", "en": "Maria is as intelligent as Luca." },
+          { "it": "Ho più amici di te.", "en": "I have more friends than you." },
+          { "it": "Lui lavora tanto quanto lei.", "en": "He works as much as she does." }
+        ]
+      },
+      "Simple Future": {
+        "english": "Simple Future (Futuro Semplice)",
+        "description": "The simple future tense is used to talk about actions that will happen. It’s formed by adding specific endings to the infinitive stem of the verb.",
+        "details": [
+          "🔹 Regular verb endings:",
+          "- -are, -ere, and -ire verbs share the same future endings:",
+          "  - io -ò",
+          "  - tu -ai",
+          "  - lui/lei -à",
+          "  - noi -emo",
+          "  - voi -ete",
+          "  - loro -anno",
+          "",
+          "🔹 Example with parlare (to speak):",
+          "- io parlerò",
+          "- tu parlerai",
+          "- lui/lei parlerà",
+          "- noi parleremo",
+          "- voi parlerete",
+          "- loro parleranno",
+          "",
+          "🔹 Example with leggere (to read):",
+          "- io leggerò",
+          "- tu leggerai",
+          "- lui/lei leggerà",
+          "- noi leggeremo",
+          "- voi leggerete",
+          "- loro leggeranno",
+          "",
+          "🔹 Example with dormire (to sleep):",
+          "- io dormirò",
+          "- tu dormirai",
+          "- lui/lei dormirà",
+          "- noi dormiremo",
+          "- voi dormirete",
+          "- loro dormiranno",
+          "",
+          "🟡 Note: For -are verbs, the final 'a' changes to 'e' before the endings (parlare → parlerò).",
+          "",
+          "📌 Some common irregular verbs have different stems (e.g., andare → andr-, avere → avr-)."
+        ],
+        "examples": [
+          { "it": "Domani parlerò con lui.", "en": "Tomorrow I will speak with him." },
+          { "it": "Lei leggerà un libro.", "en": "She will read a book." },
+          { "it": "Noi dormiremo bene stanotte.", "en": "We will sleep well tonight." }
+        ]
+      },
+      "Possessive and Demonstrative Adjectives": {
+        "english": "Possessive and Demonstrative Adjectives",
+        "description": "Possessive adjectives indicate ownership, while demonstrative adjectives point out specific things. Both must agree in gender and number with the noun they modify.",
+        "details": [
+          "🔹 Possessive adjectives (my, your, his/her, etc.):",
+          "- mio/mia (my), tuoi/tue (your), suo/sua (his/her), nostro/nostra (our), vostro/vostra (your pl.), loro (their)",
+          "- They agree in gender and number with the noun, not the owner.",
+          "- Example: la mia casa (my house, feminine singular), i miei libri (my books, masculine plural)",
+          "",
+          "🔹 Demonstrative adjectives (this, that, these, those):",
+          "- questo/questa (this), questi/queste (these), quello/quella (that), quelli/quelle (those)",
+          "- Agree in gender and number with the noun.",
+          "- Example: questo libro (this book), quelle case (those houses)",
+          "",
+          "🟡 Both possessive and demonstrative adjectives are placed before the noun.",
+          "",
+          "📌 Note: In Italian, possessive adjectives usually include the definite article, except with singular family members."
+        ],
+        "examples": [
+          { "it": "Questo è il mio libro.", "en": "This is my book." },
+          { "it": "La tua casa è grande.", "en": "Your house is big." },
+          { "it": "Quelle macchine sono nuove.", "en": "Those cars are new." },
+          { "it": "Mia sorella è gentile.", "en": "My sister is kind." }
+        ]
+      },
+      "Degrees of Comparison": {
+        "english": "Degrees of Comparison",
+        "description": "Italian expresses comparison using comparative and superlative forms to indicate differences or extremes in qualities.",
+        "details": [
+          "🔹 Comparative of superiority (more ... than):",
+          "- più + adjective/adverb + di",
+          "- Example: Lei è più alta di me. → She is taller than me.",
+          "",
+          "🔹 Comparative of inferiority (less ... than):",
+          "- meno + adjective/adverb + di",
+          "- Example: Questo libro è meno interessante del film. → This book is less interesting than the movie.",
+          "",
+          "🔹 Comparative of equality (as ... as):",
+          "- così + adjective/adverb + come",
+          "- tanto + adjective/adverb + quanto",
+          "- Example: Lui è così veloce come lei. → He is as fast as she is.",
+          "",
+          "🔹 Superlative absolute (very ... / extremely ...):",
+          "- Add suffixes -issimo / -issima / -issimi / -issime to the adjective stem.",
+          "- Example: bello → bellissimo (very beautiful)",
+          "",
+          "🔹 Superlative relative (the most ... / the least ...):",
+          "- il/la/lo + più/meno + adjective + di",
+          "- Example: Mario è il più alto della classe. → Mario is the tallest in the class."
+        ],
+        "examples": [
+          { "it": "Questo film è più divertente del libro.", "en": "This movie is more fun than the book." },
+          { "it": "Lei è meno stanca di ieri.", "en": "She is less tired than yesterday." },
+          { "it": "Lui è così intelligente come te.", "en": "He is as intelligent as you." },
+          { "it": "La casa è bellissima.", "en": "The house is very beautiful." },
+          { "it": "Lei è la più brava della squadra.", "en": "She is the best in the team." }
+        ]
+      }
+    }
+  },
+  "B1": {
+    "topics": {
+      "Imperfetto vs Passato Prossimo": {
+        "english": "Imperfect vs Present Perfect (Passato Prossimo)",
+        "description": "Both tenses are used to talk about the past, but they express different aspects of past actions or situations.",
+        "details": [
+          "🔹 *Passato Prossimo* is used for:",
+          "- Completed actions or events in the past.",
+          "- Specific actions that happened once or a limited number of times.",
+          "- Actions with a clear beginning and end.",
+          "- Example: Ho mangiato una pizza ieri. (I ate a pizza yesterday.)",
+          "",
+          "🔹 *Imperfetto* is used for:",
+          "- Ongoing or habitual past actions.",
+          "- Descriptions of people, things, time, weather in the past.",
+          "- Actions without a specified beginning or end.",
+          "- Background information in a story.",
+          "- Example: Quando ero bambino, giocavo a calcio. (When I was a child, I used to play soccer.)",
+          "",
+          "🔹 Typical signal words:",
+          "- Passato Prossimo: ieri, una volta, stamattina, subito, allora",
+          "- Imperfetto: sempre, spesso, mentre, ogni giorno, di solito",
+          "",
+          "🔹 Sometimes both tenses appear together:",
+          "- Mentre studiavo, il telefono ha suonato. (While I was studying, the phone rang.)"
+        ],
+        "examples": [
+          { "it": "Ho visto quel film ieri.", "en": "I saw that movie yesterday." },
+          { "it": "Da giovane abitavo a Roma.", "en": "When I was young, I lived in Rome." },
+          { "it": "Mentre cucinavo, è arrivato Marco.", "en": "While I was cooking, Marco arrived." },
+          { "it": "Spesso andavamo al mare d’estate.", "en": "We often went to the sea in summer." }
+        ]
+      },
+      "Futuro Semplice": {
+        "english": "Simple Future (Futuro Semplice)",
+        "description": "The simple future tense expresses actions that will happen. At B1 level, you learn irregular stems and more nuances in use.",
+        "details": [
+          "🔹 Formation: Attach the future endings (-ò, -ai, -à, -emo, -ete, -anno) to the infinitive stem.",
+          "🔹 For -are verbs, the final 'a' changes to 'e' before adding endings (parlare → parlerò).",
+          "",
+          "🔹 Irregular stems (some common verbs):",
+          "- andare → andr-",
+          "- avere → avr-",
+          "- essere → sar-",
+          "- fare → far-",
+          "- potere → potr-",
+          "- dovere → dovr-",
+          "- venire → verr-",
+          "- volere → vorr-",
+          "- vedere → vedr-",
+          "- sapere → sapr-",
+          "",
+          "🔹 Examples:",
+          "- Io andrò in Italia l’anno prossimo. → I will go to Italy next year.",
+          "- Lei avrà tempo domani. → She will have time tomorrow.",
+          "- Faremo una festa sabato. → We will have a party on Saturday.",
+          "",
+          "🔹 Usage notes:",
+          "- Futuro semplice is often used for predictions, promises, or assumptions about the present.",
+          "- It can also be used to express polite requests or intentions."
+        ],
+        "examples": [
+          { "it": "Domani andrò al mare.", "en": "Tomorrow I will go to the sea." },
+          { "it": "Avrai fame dopo la corsa.", "en": "You will be hungry after the run." },
+          { "it": "Faranno una sorpresa a Luca.", "en": "They will make a surprise for Luca." },
+          { "it": "Sarà tardi quando arriverai.", "en": "It will be late when you arrive." }
+        ]
+      },
+      "Modal Verbs": {
+        "english": "Modal Verbs: volere, potere, dovere",
+        "description": "Modal verbs express ability, necessity, permission, or desire. They are often followed by an infinitive verb.",
+        "details": [
+          "🔹 *Volere* – to want",
+          "- Expresses desire or wish.",
+          "- Example: Voglio mangiare. → I want to eat.",
+          "",
+          "🔹 *Potere* – can / to be able to",
+          "- Expresses ability or permission.",
+          "- Example: Posso uscire? → Can I go out?",
+          "",
+          "🔹 *Dovere* – must / to have to",
+          "- Expresses obligation or necessity.",
+          "- Example: Devo studiare. → I must study.",
+          "",
+          "🔹 Conjugation examples in present tense:",
+          "- Io voglio, tu vuoi, lui/lei vuole, noi vogliamo, voi volete, loro vogliono",
+          "- Io posso, tu puoi, lui/lei può, noi possiamo, voi potete, loro possono",
+          "- Io devo, tu devi, lui/lei deve, noi dobbiamo, voi dovete, loro devono",
+          "",
+          "🔹 Usage notes:",
+          "- When followed by another verb, the second verb is in the infinitive.",
+          "- Modal verbs can express polite requests or give instructions.",
+          "- In passato prossimo, these verbs conjugate with *avere* and the past participle of the main verb is usually omitted."
+        ],
+        "examples": [
+          { "it": "Voglio andare al cinema.", "en": "I want to go to the cinema." },
+          { "it": "Puoi aiutarmi?", "en": "Can you help me?" },
+          { "it": "Devo finire il lavoro.", "en": "I must finish the work." },
+          { "it": "Non ho voluto rispondere.", "en": "I didn’t want to answer." }
+        ]
+      },
+      "Adverbs of Manner": {
+        "english": "Adverbs of Manner",
+        "description": "Adverbs of manner describe how an action is performed. In Italian, many are formed by adding -mente to the feminine singular form of adjectives.",
+        "details": [
+          "🔹 Formation:",
+          "- Take the feminine singular form of the adjective and add -mente.",
+          "- Example: veloce (fast) → velocemente (quickly), lento (slow) → lentamente (slowly)",
+          "",
+          "🔹 Common adverbs of manner:",
+          "- velocemente → quickly",
+          "- lentamente → slowly",
+          "- bene → well",
+          "- male → badly",
+          "- attentamente → carefully",
+          "- facilmente → easily",
+          "",
+          "🔹 Placement in sentence:",
+          "- Usually after the verb or at the end of the sentence.",
+          "- Example: Lei parla lentamente. → She speaks slowly.",
+          "",
+          "🟡 Irregular adverbs:",
+          "- bene (well), male (badly) do not follow the -mente pattern."
+        ],
+        "examples": [
+          { "it": "Corro velocemente.", "en": "I run quickly." },
+          { "it": "Parla lentamente per farsi capire.", "en": "He speaks slowly to be understood." },
+          { "it": "Lavoriamo attentamente.", "en": "We work carefully." },
+          { "it": "Lei canta bene.", "en": "She sings well." }
+        ]
+      },
+      "Causative Constructions": {
+        "english": "Causative Constructions with 'fare' + Infinitive",
+        "description": "The verb *fare* followed by an infinitive is used to express causing someone to do something or making something happen.",
+        "details": [
+          "🔹 Structure:",
+          "- fare + infinitive verb",
+          "- Example: Faccio studiare mio fratello. → I make my brother study.",
+          "",
+          "🔹 Usage:",
+          "- To express that the subject causes an action performed by someone else.",
+          "- Often used to talk about tasks, obligations, or orders.",
+          "",
+          "🔹 Examples with conjugation:",
+          "- Io faccio pulire la casa. → I have the house cleaned (I make someone clean the house).",
+          "- Lei fa riparare la macchina. → She has the car repaired.",
+          "",
+          "🟡 Note:",
+          "- The verb *fare* is conjugated according to the subject.",
+          "- The infinitive verb stays in the base form, not conjugated.",
+          "- Sometimes this can express 'have something done' or 'get someone to do something' in English."
+        ],
+        "examples": [
+          { "it": "Faccio preparare la cena a mia madre.", "en": "I make my mother prepare dinner." },
+          { "it": "Il professore fa studiare gli studenti.", "en": "The teacher makes the students study." },
+          { "it": "Hanno fatto costruire una casa nuova.", "en": "They had a new house built." }
+        ]
+      },
+      "Direct and Indirect Object Pronouns": {
+        "english": "Direct and Indirect Object Pronouns",
+        "description": "Object pronouns replace nouns to avoid repetition. Direct pronouns replace direct objects, indirect pronouns replace indirect objects (usually preceded by 'a' or 'per').",
+        "details": [
+          "🔹 Direct object pronouns:",
+          "- mi → me",
+          "- ti → you (singular informal)",
+          "- lo → him/it (masculine singular)",
+          "- la → her/it (feminine singular)",
+          "- ci → us",
+          "- vi → you (plural)",
+          "- li → them (masculine plural)",
+          "- le → them (feminine plural)",
+          "",
+          "🔹 Indirect object pronouns:",
+          "- mi → to me",
+          "- ti → to you (singular informal)",
+          "- gli → to him",
+          "- le → to her",
+          "- ci → to us",
+          "- vi → to you (plural)",
+          "- gli → to them",
+          "",
+          "🔹 Placement:",
+          "- Before the conjugated verb: Ti vedo. → I see you.",
+          "- With infinitives: Voglio vederlo. → I want to see him.",
+          "- With imperatives: Guardalo! → Look at him!",
+          "",
+          "🟡 In passato prossimo with avere, pronouns precede the auxiliary verb:",
+          "- L’ho visto. → I saw him."
+        ],
+        "examples": [
+          { "it": "Mi chiami domani?", "en": "Will you call me tomorrow?" },
+          { "it": "Ti do un regalo.", "en": "I give you a gift." },
+          { "it": "Lo vedo spesso.", "en": "I see him often." },
+          { "it": "Le scrivo una lettera.", "en": "I write her a letter." },
+          { "it": "Gli parlo ogni giorno.", "en": "I talk to them every day." }
+        ]
+      },
+      "Relative Pronouns": {
+        "english": "Relative Pronouns",
+        "description": "Relative pronouns connect clauses and refer back to a noun mentioned earlier. The most common are *che* and *cui*.",
+        "details": [
+          "🔹 *Che* – used as subject or direct object, means 'who', 'that', or 'which'. It doesn’t change form.",
+          "- Example as subject: La ragazza che parla è mia sorella. → The girl who is speaking is my sister.",
+          "- Example as direct object: Il libro che leggo è interessante. → The book that I’m reading is interesting.",
+          "",
+          "🔹 *Cui* – used after a preposition, means 'whom', 'which', or 'whose'. It always follows a preposition (di, a, con, per, etc.).",
+          "- Example: La persona di cui ti ho parlato è qui. → The person I told you about is here.",
+          "- Example: Il motivo per cui non viene è chiaro. → The reason why he’s not coming is clear.",
+          "",
+          "🟡 *Cui* does not change with gender or number.",
+          "",
+          "🔹 Other notes:",
+          "- *Che* is the most common relative pronoun.",
+          "- When *cui* is used to indicate possession, it replaces 'il/la/le/i cui'.",
+          "- Sometimes *il quale, la quale, i quali, le quali* are used for clarity or formality."
+        ],
+        "examples": [
+          { "it": "Il ragazzo che vedi è mio cugino.", "en": "The boy that you see is my cousin." },
+          { "it": "La casa in cui abito è grande.", "en": "The house where I live is big." },
+          { "it": "La donna di cui parlavi è arrivata.", "en": "The woman you were talking about has arrived." },
+          { "it": "Questo è il libro che ho comprato.", "en": "This is the book that I bought." }
+        ]
+      },
+      "Indefinite Articles in Complex Constructions": {
+        "english": "Indefinite Articles in Complex Constructions",
+        "description": "Indefinite articles in Italian change or sometimes disappear in certain complex grammatical structures such as after prepositions, with plural nouns, or in partitive expressions.",
+        "details": [
+          "🔹 Basic indefinite articles:",
+          "- un (masculine), uno (masculine before s+consonant, z, ps, gn), una (feminine), un’ (feminine before vowel).",
+          "",
+          "🔹 After prepositions (di, a, da, in, su), indefinite articles combine into contractions with definite articles, but indefinite articles themselves don’t contract:",
+          "- Example: un libro → di un libro (of a book), a una casa (to a house)",
+          "",
+          "🔹 In plural forms, indefinite articles disappear; use *alcuni/alcune* or *dei/delle* to express 'some':",
+          "- un libro (a book) → alcuni libri (some books), delle ragazze (some girls)",
+          "",
+          "🔹 Partitive constructions express an unspecified quantity using *del, della, dello, dei, delle, degli* (which come from the contraction of *di* + definite articles):",
+          "- Voglio del pane. → I want some bread.",
+          "- Ha comprato delle mele. → He bought some apples.",
+          "",
+          "🔹 Indefinite articles are usually not used after expressions of quantity or with *molti*, *pochi*, *alcuni*.",
+          "",
+          "🟡 In some fixed expressions, the indefinite article is omitted:",
+          "- avere fame (to be hungry), fare colazione (to have breakfast)."
+        ],
+        "examples": [
+          { "it": "Ho letto un libro interessante.", "en": "I read an interesting book." },
+          { "it": "Parliamo di un problema serio.", "en": "We talk about a serious problem." },
+          { "it": "Ci sono alcune persone in giardino.", "en": "There are some people in the garden." },
+          { "it": "Vorrei del vino, per favore.", "en": "I would like some wine, please." }
+        ]
+      },
+      "Passive Voice": {
+        "english": "Passive Voice (essere + past participle)",
+        "description": "The passive voice in Italian is formed with the verb *essere* plus the past participle of the main verb. The past participle agrees in gender and number with the subject.",
+        "details": [
+          "🔹 Formation:",
+          "- essere (conjugated) + past participle (agrees with subject)",
+          "- Example: La lettera è scritta da Maria. → The letter is written by Maria.",
+          "",
+          "🔹 Use:",
+          "- To emphasize the action done to the subject rather than who performs it.",
+          "- Common in formal or written language.",
+          "",
+          "🔹 Agreement:",
+          "- Past participle agrees in gender and number with the subject:",
+          "  - Il libro è letto. (masculine singular)",
+          "  - Le lettere sono scritte. (feminine plural)",
+          "",
+          "🔹 By-agent expressed with *da* (by):",
+          "- Il film è stato visto da molti. → The film was seen by many.",
+          "",
+          "🟡 In passato prossimo passive, use essere in passato prossimo + past participle:",
+          "- La casa è stata costruita nel 2000. → The house was built in 2000."
+        ],
+        "examples": [
+          { "it": "La porta è chiusa.", "en": "The door is closed." },
+          { "it": "Il progetto è stato approvato.", "en": "The project has been approved." },
+          { "it": "Le email sono inviate ogni giorno.", "en": "The emails are sent every day." },
+          { "it": "Il quadro è stato dipinto da un artista famoso.", "en": "The painting was painted by a famous artist." }
+        ]
+      },
+      "First Conditional": {
+        "english": "First Conditional Sentences (Real Possibility)",
+        "description": "The first conditional describes real or possible situations in the present or future and their likely results.",
+        "details": [
+          "🔹 Structure:",
+          "- If-clause (protasi): *se* + present indicative",
+          "- Main clause (apodosi): future indicative (futuro semplice)",
+          "",
+          "🔹 Example:",
+          "- Se studio, passerò l’esame. → If I study, I will pass the exam.",
+          "",
+          "🔹 Usage:",
+          "- Used for real or likely conditions and their consequences.",
+          "- The 'if' clause uses the present tense, the main clause uses the future tense.",
+          "",
+          "🔹 Notes:",
+          "- 'Se' means 'if'.",
+          "- Sometimes the main clause can also be in the imperative for commands:",
+          "  - Se vuoi, chiamami. → If you want, call me."
+        ],
+        "examples": [
+          { "it": "Se piove, non uscirò.", "en": "If it rains, I won’t go out." },
+          { "it": "Se hai fame, mangia qualcosa.", "en": "If you are hungry, eat something." },
+          { "it": "Se studi bene, avrai buoni voti.", "en": "If you study well, you will have good grades." },
+          { "it": "Se vieni, ti aspetterò.", "en": "If you come, I will wait for you." }
+        ]
+      },
+      "Gerundio": {
+        "english": "Gerund",
+        "description": "The gerund expresses an action in progress or simultaneous with another action. It often corresponds to the English '-ing' form.",
+        "details": [
+          "🔹 Formation:",
+          "- For -are verbs: stem + -ando (parlare → parlando)",
+          "- For -ere and -ire verbs: stem + -endo (mangiare → mangiando, dormire → dormendo)",
+          "",
+          "🔹 Usage:",
+          "- To express ongoing actions:",
+          "  - Sto parlando. → I am speaking.",
+          "- To indicate how an action is done (adverbial use):",
+          "  - Camminando, ascoltava musica. → While walking, he was listening to music.",
+          "- Often used with verbs like *stare* + gerund to form the present continuous.",
+          "",
+          "🔹 Notes:",
+          "- The gerund does not change for gender or number.",
+          "- Can be used in absolute constructions or with prepositions like *mentre* (while)."
+        ],
+        "examples": [
+          { "it": "Sto mangiando una mela.", "en": "I am eating an apple." },
+          { "it": "Legge il giornale parlando al telefono.", "en": "He reads the newspaper while talking on the phone." },
+          { "it": "Camminando per strada, ho visto un amico.", "en": "Walking down the street, I saw a friend." },
+          { "it": "Sta dormendo adesso.", "en": "He is sleeping now." }
+        ]
+      },
+      "Prepositions of Time": {
+        "english": "Prepositions of Time",
+        "description": "Italian prepositions are used to indicate time relationships such as when something happens or its duration.",
+        "details": [
+          "🔹 *tra* / *fra* (both interchangeable) – 'in', 'after', used for future points in time or intervals:",
+          "- Example: Parto tra due giorni. → I leave in two days.",
+          "- Example: La riunione è fra un’ora. → The meeting is in an hour.",
+          "",
+          "🔹 *durante* – 'during', indicates the duration of an event:",
+          "- Example: Ho studiato durante la notte. → I studied during the night.",
+          "",
+          "🔹 Other common time prepositions:",
+          "- *da* – since/from (point in time or duration): Vivo qui da gennaio. → I have lived here since January.",
+          "- *fino a* – until: Lavoro fino a venerdì. → I work until Friday.",
+          "- *prima di* – before: Arrivo prima di mezzogiorno. → I arrive before noon.",
+          "",
+          "🟡 Notes:",
+          "- *Tra* and *fra* are fully interchangeable.",
+          "- Use *durante* with nouns, not verbs.",
+          "- Prepositions often combine with definite articles (e.g., *nel* = *in + il*)."
+        ],
+        "examples": [
+          { "it": "La festa è tra una settimana.", "en": "The party is in a week." },
+          { "it": "Ho dormito durante il viaggio.", "en": "I slept during the trip." },
+          { "it": "Studio italiano da due anni.", "en": "I have been studying Italian for two years." },
+          { "it": "Restiamo fino a lunedì.", "en": "We stay until Monday." }
+        ]
+      }
+    }
+  },
+  "B2": {
+    "topics": {
+      "Complex Past and Future Tenses": {
+        "english": "Trapassato Prossimo and Futuro Anteriore",
+        "description": "These compound tenses express actions completed before another past or future action, respectively.",
+        "details": [
+          "🔹 *Trapassato Prossimo* (Past Perfect):",
+          "- Used to describe an action completed before another past action.",
+          "- Formed with the imperfect of *essere* or *avere* + past participle.",
+          "- Example: Avevo già mangiato quando sei arrivato. → I had already eaten when you arrived.",
+          "",
+          "🔹 *Futuro Anteriore* (Future Perfect):",
+          "- Expresses an action that will be completed before another future action or time.",
+          "- Formed with the future of *essere* or *avere* + past participle.",
+          "- Example: Avrò finito il lavoro prima delle sei. → I will have finished the work before six.",
+          "",
+          "🔹 Choice of auxiliary verb (*essere* or *avere*) follows same rules as passato prossimo.",
+          "",
+          "🔹 Usage notes:",
+          "- Trapassato Prossimo often appears with conjunctions like *quando* (when), *appena* (as soon as), *prima che* (before).",
+          "- Futuro Anteriore is common in formal speech or to express assumptions about the past from a future perspective."
+        ],
+        "examples": [
+          { "it": "Quando sono arrivato, lei aveva già studiato.", "en": "When I arrived, she had already studied." },
+          { "it": "Appena avrai finito, chiamami.", "en": "As soon as you have finished, call me." },
+          { "it": "Avremo terminato il progetto entro venerdì.", "en": "We will have finished the project by Friday." },
+          { "it": "Prima che tu sia partito, ho parlato con Marco.", "en": "Before you left, I spoke with Marco." }
+        ]
+      },
+      "Conditional Mood": {
+        "english": "Present and Past Conditional",
+        "description": "The conditional mood is used to express politeness, wishes, possibilities, or hypothetical situations in the present (Condizionale Semplice) or in the past (Condizionale Composto).",
+        "details": [
+          "🔹 *Condizionale Semplice* (Present Conditional):",
+          "- Used to express polite requests, wishes, or hypothetical situations in the present or future.",
+          "- Formed by adding specific endings to the infinitive root (similar to futuro semplice).",
+          "- Example: Vorrei un caffè. → I would like a coffee.",
+          "",
+          "🔹 *Condizionale Composto* (Past Conditional):",
+          "- Used to talk about something that *would have happened* in the past.",
+          "- Formed with the *condizionale semplice* of *avere* or *essere* + past participle.",
+          "- Example: Sarei venuto, ma ero malato. → I would have come, but I was sick.",
+          "",
+          "🔹 Common uses:",
+          "- Expressing wishes: Mi piacerebbe andare in Italia. → I would like to go to Italy.",
+          "- Expressing hypothetical past actions: Avrei studiato di più. → I would have studied more.",
+          "- Reported speech (in the past): Ha detto che sarebbe arrivato tardi. → He said he would arrive late.",
+          "",
+          "🟡 Notes:",
+          "- Auxiliary *avere* or *essere* follows the same rules as in other compound tenses.",
+          "- Past participle agrees with the subject when *essere* is used."
+        ],
+        "examples": [
+          { "it": "Ti aiuterei, ma sono occupato.", "en": "I would help you, but I’m busy." },
+          { "it": "Vorrebbero vivere al mare.", "en": "They would like to live by the sea." },
+          { "it": "Avresti potuto chiamarmi.", "en": "You could have called me." },
+          { "it": "Saremmo andati, se non avesse piovuto.", "en": "We would have gone if it hadn’t rained." }
+        ]
+      },
+      "Congiuntivo Presente": {
+        "english": "Present Subjunctive (after emotions, opinions, doubts)",
+        "description": "The *congiuntivo presente* is used in dependent clauses after expressions of emotion, opinion, or doubt. It reflects subjectivity or uncertainty.",
+        "details": [
+          "🔹 Formation:",
+          "- Regular verbs use the root of the verb + specific endings.",
+          "- Example (parlare): che io parli, che tu parli, che lui/lei parli, che noi parliamo, che voi parliate, che loro parlino",
+          "- Example (credere): che io creda, che tu creda, che lui/lei creda, che noi crediamo, che voi crediate, che loro credano",
+          "- Example (finire): che io finisca, che tu finisca, che lui/lei finisca, che noi finiamo, che voi finiate, che loro finiscano",
+          "",
+          "🔹 Used after verbs/expressions of:",
+          "- Emotion: *essere felice che*, *dispiacere che*, *temere che*",
+          "- Opinion or judgment: *pensare che*, *credere che*, *ritenere che*",
+          "- Doubt or uncertainty: *dubitare che*, *non essere sicuro che*, *sembrare che*",
+          "",
+          "🔹 Structure:",
+          "- [Main clause] + *che* + [dependent clause in subjunctive]",
+          "- Example: Penso che tu sia gentile. → I think you are kind.",
+          "",
+          "🟡 Notes:",
+          "- If the subject is the same in both clauses, use the infinitive instead of *che + congiuntivo*.",
+          "- The subjunctive is more frequent in formal or written Italian."
+        ],
+        "examples": [
+          { "it": "Spero che tu stia bene.", "en": "I hope you are well." },
+          { "it": "Mi dispiace che lui non venga.", "en": "I’m sorry he isn’t coming." },
+          { "it": "Penso che sia una buona idea.", "en": "I think it’s a good idea." },
+          { "it": "Dubito che abbiano tempo.", "en": "I doubt they have time." }
+        ]
+      },
+      "Hypothetical Sentences (Tipo 2 & 3)": {
+        "english": "Hypothetical Sentences (Type 2 & 3)",
+        "description": "These types of hypothetical sentences express unreal or impossible conditions. Type 2 refers to unlikely situations in the present/future, and Type 3 refers to impossible situations in the past.",
+        "details": [
+          "🔹 **Tipo 2** – Hypothetical Present/Future (Unreal or unlikely):",
+          "- Structure: *se + congiuntivo imperfetto* → *condizionale presente*",
+          "- Example: Se fossi ricco, viaggerei. → If I were rich, I would travel.",
+          "- Used to describe unreal or very unlikely conditions.",
+          "",
+          "🔹 **Tipo 3** – Hypothetical Past (Impossible because it's too late):",
+          "- Structure: *se + congiuntivo trapassato* → *condizionale composto*",
+          "- Example: Se avessi studiato, avrei superato l’esame. → If I had studied, I would have passed the exam.",
+          "- Used to talk about things that didn’t happen in the past.",
+          "",
+          "🔹 Notes:",
+          "- The 'se' clause (protasi) cannot use the future tense!",
+          "- Verb agreement and auxiliary (*avere/essere*) follow normal past rules.",
+          "- Tipo 3 can be combined with Tipo 2 in mixed conditionals.",
+          "  - Example: Se avessi dormito, ora sarei meno stanco. → If I had slept, now I would be less tired."
+        ],
+        "examples": [
+          { "it": "Se vincessi alla lotteria, comprerei una casa al mare.", "en": "If I won the lottery, I would buy a house by the sea." },
+          { "it": "Se parlassi meglio italiano, potrei lavorare qui.", "en": "If I spoke Italian better, I could work here." },
+          { "it": "Se fossimo usciti prima, avremmo preso il treno.", "en": "If we had left earlier, we would have caught the train." },
+          { "it": "Se avessi ascoltato, non avresti fatto quell’errore.", "en": "If you had listened, you wouldn’t have made that mistake." }
+        ]
+      },
+      "Conditional Expressions": {
+        "english": "Conditional Expressions (se solo, a meno che, purché…)",
+        "description": "Some Italian expressions introduce hypothetical, conditional, or limiting situations. Many of them require the subjunctive mood (*congiuntivo*) after them.",
+        "details": [
+          "🔹 *Se solo…* – If only…",
+          "- Expresses a strong wish or regret.",
+          "- Often followed by *congiuntivo imperfetto* or *trapassato*.",
+          "- Example: Se solo avessi più tempo! → If only I had more time!",
+          "",
+          "🔹 *A meno che… non* – Unless…",
+          "- Requires *congiuntivo* after it.",
+          "- Example: Non parto, a meno che tu non venga. → I’m not leaving unless you come.",
+          "",
+          "🔹 *Purché…* – As long as / provided that…",
+          "- Also followed by *congiuntivo*.",
+          "- Example: Puoi uscire, purché tu finisca i compiti. → You can go out, provided you finish your homework.",
+          "",
+          "🔹 *Nel caso in cui…* – In case…",
+          "- Followed by *congiuntivo*.",
+          "- Example: Portalo, nel caso in cui piova. → Bring it, in case it rains.",
+          "",
+          "🔹 *A patto che…* / *A condizione che…* – On the condition that…",
+          "- Formal equivalents of *purché*, also followed by *congiuntivo*.",
+          "- Example: Ti aiuto, a patto che tu mi dica tutto. → I’ll help you, on the condition that you tell me everything."
+        ],
+        "examples": [
+          { "it": "Se solo fossi lì con te!", "en": "If only I were there with you!" },
+          { "it": "Non lo farà, a meno che qualcuno non lo convinca.", "en": "He won't do it unless someone convinces him." },
+          { "it": "Ti accompagnerò, purché tu sia pronta in tempo.", "en": "I’ll accompany you, provided you’re ready on time." },
+          { "it": "Porta l’ombrello, nel caso in cui piova.", "en": "Bring the umbrella, in case it rains." }
+        ]
+      },
+      "Impersonal Constructions": {
+        "english": "Impersonal Forms and Constructions (si dice, si pensa…)",
+        "description": "Impersonal constructions are used when the subject is general, unknown, or not specified. They often use *si* or impersonal verbs in the third person.",
+        "details": [
+          "🔹 *Si impersonale* – impersonal 'si':",
+          "- Used with a verb in the 3rd person singular to express general actions or facts.",
+          "- Example: Si dice che domani pioverà. → They say it will rain tomorrow.",
+          "- Example: In Italia si mangia bene. → People eat well in Italy.",
+          "",
+          "🔹 *Si passivante* – impersonal passive:",
+          "- When followed by a direct object, the verb becomes 3rd person plural.",
+          "- Example: Si vendono libri. → Books are sold.",
+          "- Example: Si cercano volontari. → Volunteers are wanted.",
+          "",
+          "🔹 Impersonal expressions with verbs like *sembra, pare, si pensa, si crede…*:",
+          "- These are often followed by the subjunctive.",
+          "- Example: Si pensa che lui sia partito. → It is thought that he left.",
+          "- Example: Sembra che siano felici. → It seems they are happy.",
+          "",
+          "🟡 Notes:",
+          "- The *si impersonale* always uses the 3rd person singular (unless there is a plural direct object).",
+          "- Often used in journalism, instructions, generalizations, and formal contexts."
+        ],
+        "examples": [
+          { "it": "Si dice che il film sia bello.", "en": "They say the movie is good." },
+          { "it": "Si mangia bene in quel ristorante.", "en": "You eat well in that restaurant." },
+          { "it": "Si vendono molti prodotti online.", "en": "Many products are sold online." },
+          { "it": "Si pensa che la situazione migliori.", "en": "It is thought that the situation is improving." }
+        ]
+      },
+      "Combined Pronouns": {
+        "english": "Combined Pronouns (me lo, glielo…)",
+        "description": "In Italian, direct and indirect object pronouns can be combined into a single word. These are called *pronomi combinati* and are often used in spoken and written Italian.",
+        "details": [
+          "🔹 Structure: [Indirect object pronoun] + [Direct object pronoun]",
+          "- Example: mi + lo = me lo → You give *it* to *me* → Me lo dai.",
+          "",
+          "🔹 Common combinations:",
+          "- me lo / me la / me li / me le",
+          "- te lo / te la / te li / te le",
+          "- glielo / gliela / glieli / gliele",
+          "- ce lo / ce la / ce li / ce le",
+          "- ve lo / ve la / ve li / ve le",
+          "- glielo (for *loro* is also glielo)",
+          "",
+          "🔹 Placement:",
+          "- Usually go **before** the conjugated verb: Me lo dai? → Will you give it to me?",
+          "- With modal verbs (dovere, potere, volere), they can go before the verb or attached to the infinitive:",
+          "  - Devo dartelo. / Te lo devo dare. → I have to give it to you.",
+          "- With the imperative:",
+          "  - Dammi il libro! → Give me the book!",
+          "  - Dammelo! → Give it to me!",
+          "",
+          "🟡 Notes:",
+          "- The form *glielo* is used for both masculine and feminine indirect singular (a lui / a lei / a loro).",
+          "- With 'loro' as indirect object (in very formal contexts), the pronouns stay separate: Do il libro a loro → Lo do a loro."
+        ],
+        "examples": [
+          { "it": "Te lo dico subito.", "en": "I'll tell you right away." },
+          { "it": "Glieli abbiamo mandati ieri.", "en": "We sent them to him/her yesterday." },
+          { "it": "Puoi prestarmelo?", "en": "Can you lend it to me?" },
+          { "it": "Me lo sono dimenticato.", "en": "I forgot it." }
+        ]
+      },
+      "Adverbial Phrases": {
+        "english": "Adverbial Phrases (a dire la verità, in effetti…)",
+        "description": "Locuzioni avverbiali are fixed expressions that function like adverbs, adding nuance to speech such as truth, contrast, opinion, or consequence.",
+        "details": [
+          "🔹 Common adverbial phrases and their uses:",
+          "- *a dire la verità* – to tell the truth (used to introduce honesty or correction)",
+          "- *in effetti* – in fact / indeed (used to confirm or emphasize a point)",
+          "- *per fortuna* – fortunately",
+          "- *alla fine* – in the end / eventually",
+          "- *in generale* – in general",
+          "- *per esempio* – for example",
+          "- *in realtà* – actually / in reality",
+          "- *ad ogni modo* – anyway / in any case",
+          "- *in breve* – in short",
+          "- *inoltre* – furthermore / moreover",
+          "",
+          "🔹 Usage:",
+          "- These phrases do not change form.",
+          "- Typically placed at the beginning or middle of the sentence for emphasis.",
+          "- Common in both spoken and written Italian, especially in formal or academic registers."
+        ],
+        "examples": [
+          { "it": "A dire la verità, non mi piace molto.", "en": "To tell the truth, I don’t like it very much." },
+          { "it": "In effetti, hai ragione.", "en": "Indeed, you are right." },
+          { "it": "Per fortuna, siamo arrivati in tempo.", "en": "Fortunately, we arrived on time." },
+          { "it": "In realtà, pensavo il contrario.", "en": "Actually, I thought the opposite." }
+        ]
+      }
+    }
+  },
+  "C1": {
+    "topics":{
+      "Congiuntivo Completo": {
+        "english": "Full Use of the Subjunctive Mood (Present, Imperfect, Past)",
+        "description": "The subjunctive (*congiuntivo*) expresses doubt, emotion, opinion, desire, or uncertainty. It is widely used in dependent clauses and varies depending on time and context.",
+        "details": [
+          "🔹 *Congiuntivo Presente*:",
+          "- Used when the main clause is in the present/future and expresses uncertainty, emotions, or opinions.",
+          "- Example: Penso che tu abbia ragione. → I think you're right.",
+          "",
+          "🔹 *Congiuntivo Passato* (Present Perfect Subjunctive):",
+          "- Used when the action of the subordinate clause happened before the present.",
+          "- Formed with *congiuntivo presente* of *essere/avere* + past participle.",
+          "- Example: Spero che tu abbia studiato. → I hope you studied.",
+          "",
+          "🔹 *Congiuntivo Imperfetto*:",
+          "- Used when the main clause is in a past tense and expresses desire, emotion, doubt, etc.",
+          "- Often appears in *periodo ipotetico tipo 2*.",
+          "- Example: Volevo che tu venissi. → I wanted you to come.",
+          "",
+          "🔹 *Congiuntivo Trapassato* (Pluperfect Subjunctive):",
+          "- Used to express a hypothetical or unreal action in the past.",
+          "- Often used in *periodo ipotetico tipo 3*.",
+          "- Example: Se avessi saputo, sarei venuto. → If I had known, I would have come.",
+          "",
+          "🔹 Common triggers for congiuntivo:",
+          "- *credere che*, *pensare che*, *sembrare che*, *è importante che*, *è possibile che*, *a meno che*…",
+          "",
+          "🟡 Notes:",
+          "- Subjunctive is always used in dependent clauses, usually introduced by *che*.",
+          "- The subject must be different in main and subordinate clause; otherwise, use the infinitive.",
+          "- In spoken Italian, especially in some regions, congiuntivo may be replaced by indicative (but not in formal writing)."
+        ],
+        "examples": [
+          { "it": "Credo che lui sia stanco.", "en": "I believe he is tired." },
+          { "it": "Temo che tu abbia sbagliato.", "en": "I fear you made a mistake." },
+          { "it": "Volevo che tu mi aiutassi.", "en": "I wanted you to help me." },
+          { "it": "Se avessimo avuto più tempo, saremmo rimasti.", "en": "If we had had more time, we would have stayed." }
+        ]
+      },
+      "Inversion, Ellipsis, Emphasis": {
+        "english": "Inversion, Ellipsis, Emphatic Constructions",
+        "description": "Advanced structures used for stylistic effect, emphasis, and fluency. These forms often appear in literary, journalistic, or formal Italian, and are key to mastering nuanced expression.",
+        "details": [
+          "🔹 *Inversione* – Inversion:",
+          "- Typical word order is changed for emphasis or style.",
+          "- Example: «Mai avevo visto una cosa simile!» instead of «Non avevo mai visto una cosa simile.»",
+          "- Often used with negative adverbs at the beginning: *mai*, *neanche*, *raramente*, *solo allora*…",
+          "",
+          "🔹 *Ellissi* – Ellipsis:",
+          "- Omission of obvious or repeated words to avoid redundancy.",
+          "- Example: «Io studio matematica, lui fisica.» (omitting 'studia')",
+          "- Common in informal speech or to create rhythm in writing.",
+          "",
+          "🔹 *Costruzioni enfatiche* – Emphatic constructions:",
+          "- Use of *proprio*, *anche*, *perfino*, *persino*, *solo*, *mica*, *pure* for emphasis.",
+          "- Example: «È proprio questo il problema.» → *This* is exactly the problem.",
+          "- Example: «Anche tu sei venuto!» → You came too!",
+          "- Inversion or repetition may also add emphasis: «Lui, lo voglio vedere oggi!» → *Him*, I want to see today!",
+          "",
+          "🟡 Notes:",
+          "- Mastery of these forms gives your Italian more natural flow and emotional impact.",
+          "- In literary texts, expect frequent use of ellipsis and inversion.",
+          "- Spoken Italian uses emphatic particles more than strict inversion."
+        ],
+        "examples": [
+          { "it": "Mai avevo provato tanta felicità.", "en": "Never had I felt such happiness." },
+          { "it": "Io vado in biblioteca, tu in palestra.", "en": "I’m going to the library, you to the gym." },
+          { "it": "È proprio lui che cercavo.", "en": "It’s exactly him I was looking for." },
+          { "it": "Anche Maria ha superato l’esame.", "en": "Maria passed the exam too." }
+        ]
+      },
+      "Complex Temporal Constructions": {
+        "english": "Complex Temporal Constructions",
+        "description": "At an advanced level, Italian uses rich temporal expressions to indicate relationships between actions in time. These involve various tenses, conjunctions, and verbal forms.",
+        "details": [
+          "🔹 Use of compound conjunctions:",
+          "- *non appena*, *appena*, *una volta che*, *prima che*, *dopo che*, *finché*, *mentre*…",
+          "- Example: «Non appena arrivò, iniziò a piovere.» → As soon as he arrived, it started raining.",
+          "- Example: «Dopo che ebbe mangiato, uscì.» → After he had eaten, he went out.",
+          "",
+          "🔹 Sequence of tenses with temporal clauses:",
+          "- *prima che* → + **congiuntivo** (when referring to future or uncertain events)",
+          "- Example: «Finisci prima che torni.» → Finish before he returns.",
+          "",
+          "🔹 Use of passato remoto / trapassato remoto in literary contexts:",
+          "- Literary register may include: «Quando fu arrivato, parlò subito.»",
+          "",
+          "🔹 Emphasis on anteriority/posteriority using periphrastic forms:",
+          "- *stare per + infinito*: about to do something → «Stava per uscire.»",
+          "- *avere appena + participio passato*: just did something → «Aveva appena finito.»",
+          "- *essere sul punto di + infinito*: about to do → «Era sul punto di piangere.»",
+          "",
+          "🟡 Notes:",
+          "- Complex temporal structures require attention to verb tense agreement.",
+          "- These enrich narrative structure and allow nuanced temporal sequencing."
+        ],
+        "examples": [
+          { "it": "Appena fu entrato, tutti si zittirono.", "en": "As soon as he entered, everyone fell silent." },
+          { "it": "Era sul punto di dire qualcosa, ma si fermò.", "en": "He was about to say something, but he stopped." },
+          { "it": "Finisci prima che arrivi tua madre.", "en": "Finish before your mother arrives." },
+          { "it": "Dopo che ebbe parlato, uscì dalla stanza.", "en": "After he had spoken, he left the room." }
+        ]
+      },
+      "Formal and Informal Register": {
+        "english": "Formal and Informal Speech Styles",
+        "description": "Italian distinguishes between formal and informal registers, important for politeness, social context, and appropriate communication.",
+        "details": [
+          "🔹 *Formale* (formal):",
+          "- Uses *Lei* for polite 'you', third person verb forms.",
+          "- More complex sentence structures and richer vocabulary.",
+          "- Frequent use in business, official communication, and with strangers or elders.",
+          "- Example: «La contatterò domani.» (I will contact you tomorrow.)",
+          "",
+          "🔹 *Informale* (informal):",
+          "- Uses *tu* for 'you' (singular) and *voi* or *tu* for plural depending on region.",
+          "- Simpler sentences, more colloquial vocabulary.",
+          "- Common among friends, family, peers.",
+          "- Example: «Ti chiamo domani.» (I’ll call you tomorrow.)",
+          "",
+          "🔹 Differences in verbs and pronouns:",
+          "- *Lei* (formal singular) takes 3rd person verbs: *Lei va* (you go).",
+          "- *Tu* (informal singular) takes 2nd person verbs: *Tu vai* (you go).",
+          "- Plural formal *Loro* is rare and mostly literary.",
+          "",
+          "🔹 Other stylistic markers:",
+          "- Use of honorific titles: *Signore*, *Signora*, *Dottore*, *Professore*.",
+          "- Polite expressions: *per favore*, *la prego*, *con piacere*.",
+          "- Avoidance of slang or vulgar expressions in formal style.",
+          "",
+          "🟡 Notes:",
+          "- Choosing the right register is crucial for respect and social harmony.",
+          "- Formal style is essential in writing official letters, emails, presentations.",
+          "- Informal style dominates in everyday conversations among close contacts."
+        ],
+        "examples": [
+          { "it": "Formale: Le scrivo per confermare l’appuntamento.", "en": "Formal: I am writing to confirm the appointment." },
+          { "it": "Informale: Ti scrivo per confermare l’appuntamento.", "en": "Informal: I’m writing to confirm the appointment." },
+          { "it": "Formale: La ringrazio per la Sua cortesia.", "en": "Formal: Thank you for your kindness." },
+          { "it": "Informale: Grazie mille per l’aiuto!", "en": "Informal: Thanks a lot for the help!" }
+        ]
+      },
+      "Reported and Direct Speech in Past Tenses": {
+        "english": "Reported (Indirect) and Direct Speech in Past Tenses",
+        "description": "Italian uses specific rules to shift tenses when transforming direct speech into indirect speech, especially in past contexts.",
+        "details": [
+          "🔹 When the main verb of saying/thinking is in the past (e.g., *ha detto*, *pensava*), subordinate verbs shift back in time:",
+          "",
+          "Direct → Indirect speech tense shifts:",
+          "- *Presente* → *Imperfetto*:",
+          "  - Direct: «Sono felice.»",
+          "  - Indirect: Ha detto che era felice.",
+          "",
+          "- *Passato prossimo* → *Trapassato prossimo*:",
+          "  - Direct: «Ho mangiato.»",
+          "  - Indirect: Ha detto che aveva mangiato.",
+          "",
+          "- *Imperfetto* → *Imperfetto*: no change",
+          "- *Futuro semplice* → *Condizionale presente*:",
+          "  - Direct: «Andrò domani.»",
+          "  - Indirect: Ha detto che sarebbe andato domani.",
+          "",
+          "🔹 Pronouns, adverbs and time expressions also change:",
+          "- *qui* → *lì*, *oggi* → *quel giorno*, *adesso* → *in quel momento*.",
+          "",
+          "🔹 Example:",
+          "- Direct: Maria ha detto: «Ho visto Luca ieri».",
+          "- Indirect: Maria ha detto che aveva visto Luca il giorno prima.",
+          "",
+          "🟡 Notes:",
+          "- In informal speech, sometimes tense shifting is less strict.",
+          "- For present or future main verbs, tense shifts usually do not occur."
+        ],
+        "examples": [
+          { "it": "Luca ha detto: «Vado al cinema».", "en": "Luca said: 'I am going to the cinema.'" },
+          { "it": "Luca ha detto che andava al cinema.", "en": "Luca said he was going to the cinema." },
+          { "it": "Maria ha detto: «Ho finito il lavoro».", "en": "Maria said: 'I finished the work.'" },
+          { "it": "Maria ha detto che aveva finito il lavoro.", "en": "Maria said she had finished the work." }
+        ]
+      },
+      "Language Stylization": {
+        "english": "Stylization of Language: Literary vs Colloquial",
+        "description": "Italian language varies greatly between literary (formal, written) and colloquial (informal, spoken) styles. Understanding these differences helps in adapting language to context.",
+        "details": [
+          "🔹 *Literary Style* (stile letterario):",
+          "- Richer vocabulary and complex sentence structures.",
+          "- Frequent use of subjunctive, passive voice, and complex tenses.",
+          "- Use of formal and sometimes archaic expressions.",
+          "- Common in books, newspapers, official documents, speeches.",
+          "",
+          "🔹 *Colloquial Style* (stile colloquiale):",
+          "- Simpler syntax and vocabulary.",
+          "- Frequent use of idiomatic expressions, slang, contractions.",
+          "- More direct and less formal.",
+          "- Common in everyday conversation, social media, informal writing.",
+          "",
+          "🔹 Key differences:",
+          "- Literary style favors *passive constructions*; colloquial prefers active voice.",
+          "- Use of *pronomi tonici* (stressed pronouns) is more frequent in spoken language.",
+          "- Colloquial often omits subject pronouns; literary style tends to keep them for clarity.",
+          "- Use of modal verbs is common in colloquial speech.",
+          "",
+          "🟡 Notes:",
+          "- Being able to switch between styles is important for fluency and cultural competence.",
+          "- Exposure to both styles through reading and listening improves understanding.",
+          "- In writing, choose style according to audience and purpose."
+        ],
+        "examples": [
+          { "it": "Literario: Il poeta compose versi struggenti.", "en": "Literary: The poet composed poignant verses." },
+          { "it": "Colloquiale: Il poeta ha scritto poesie belle.", "en": "Colloquial: The poet wrote beautiful poems." },
+          { "it": "Literario: Non v’è dubbio alcuno.", "en": "Literary: There is no doubt whatsoever." },
+          { "it": "Colloquiale: Non c’è dubbio.", "en": "Colloquial: There is no doubt." }
+        ]
+      },
+      "Introductory Words and Phrases": {
+        "english": "Introductory Words and Phrases (tuttavia, ciononostante, benché…)",
+        "description": "Advanced connectors and introductory expressions used to link ideas, contrast, cause, concession, and introduce subordinate clauses.",
+        "details": [
+          "🔹 *Tuttavia* – however, nevertheless",
+          "- Used to introduce a contrast or concession.",
+          "- Example: «Era stanco, tuttavia ha continuato a lavorare.»",
+          "",
+          "🔹 *Ciononostante* – nonetheless, notwithstanding",
+          "- Similar use to *tuttavia*, more formal.",
+          "- Example: «Non aveva studiato, ciononostante ha superato l’esame.»",
+          "",
+          "🔹 *Benchè* – although, even though",
+          "- Conjunction that introduces a concessive subordinate clause.",
+          "- Requires *congiuntivo*.",
+          "- Example: «Benchè fosse tardi, siamo usciti.»",
+          "",
+          "🔹 Other useful connectors:",
+          "- *Nonostante*, *sebbene* (also concessive, with subjunctive)",
+          "- *Poiché*, *dato che* (cause, because)",
+          "- *Però*, *ma* (but, however)",
+          "",
+          "🟡 Notes:",
+          "- Mastery of these connectors improves coherence and sophistication of speech and writing.",
+          "- *Benchè*, *nonostante*, *sebbene* require subjunctive mood."
+        ],
+        "examples": [
+          { "it": "Era malato, tuttavia è andato al lavoro.", "en": "He was sick; however, he went to work." },
+          { "it": "Non ha studiato, ciononostante ha passato l’esame.", "en": "He didn’t study; nonetheless, he passed the exam." },
+          { "it": "Benchè piovesse, siamo usciti.", "en": "Although it was raining, we went out." },
+          { "it": "Nonostante la pioggia, la festa è stata un successo.", "en": "Despite the rain, the party was a success." }
+        ]
+      },
+      "Archaisms and Rare Forms": {
+        "english": "Use of Archaisms and Rare Forms",
+        "description": "At an advanced level, understanding archaic and rare forms enriches comprehension of classical literature, historical texts, and stylistic variation.",
+        "details": [
+          "🔹 *Archaic forms* are outdated words or grammatical forms no longer common in everyday speech.",
+          "- Examples: *egli* (he), *ella* (she), *vossignoria* (your lordship), *codesto* (that), *ove* (where).",
+          "- Used primarily in literature, poetry, historical documents, and some formal or religious contexts.",
+          "",
+          "🔹 *Rare forms* may include:",
+          "- Old verb forms: *fui*, *fosti* (passato remoto of essere),",
+          "- Obsolete pronouns or adjective forms.",
+          "- Uncommon syntactic constructions.",
+          "",
+          "🔹 Why learn them?",
+          "- To understand classical Italian texts and nuances in literary style.",
+          "- To appreciate stylistic choices by authors.",
+          "- Sometimes for poetic effect or rhetoric.",
+          "",
+          "🟡 Notes:",
+          "- Archaic forms are generally avoided in modern spoken and written Italian.",
+          "- Knowing them helps when reading older texts but not necessary for everyday use."
+        ],
+        "examples": [
+          { "it": "Egli era un uomo saggio.", "en": "He was a wise man." },
+          { "it": "Ella cantò una canzone.", "en": "She sang a song." },
+          { "it": "Ove andavi?", "en": "Where were you going?" },
+          { "it": "Vossignoria, gradite un caffè?", "en": "Your lordship, would you like a coffee?" }
+        ]
+      }
+    }
+  }
+}
